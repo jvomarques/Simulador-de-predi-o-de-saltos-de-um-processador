@@ -1,0 +1,17 @@
+C:\Users\Matheus\Desktop\OAC\OAC\bin\Release\OAC.exe
+C:\Users\Matheus\Desktop\OAC\OAC\bin\Release\OAC.pdb
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\MainWindow.baml
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\UC_help.baml
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\UC_sobre.baml
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\UC_tela1.baml
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\MainWindow.g.cs
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\UC_help.g.cs
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\UC_sobre.g.cs
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\UC_tela1.g.cs
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\App.g.cs
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\OAC_MarkupCompile.cache
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\OAC.g.resources
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\OAC.Properties.Resources.resources
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\OAC.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\OAC.exe
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Release\OAC.pdb

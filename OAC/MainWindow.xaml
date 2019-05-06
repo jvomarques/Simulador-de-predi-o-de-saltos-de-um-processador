@@ -1,0 +1,19 @@
+﻿<Window x:Class="OAC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Jump's Prediction" Height="500" Width="700" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid Height="461" HorizontalAlignment="Left" Name="g_main" VerticalAlignment="Top" Width="678">
+            <Button Content="Iniciar" Height="30" HorizontalAlignment="Left" Margin="215,263,0,0" Name="bt_iniciar" VerticalAlignment="Top" Width="209" Click="button1_Click" Cursor="Hand" />
+            <Button Content="Ajuda" Height="30" HorizontalAlignment="Left" Margin="215,307,0,0" Name="bt_ajuda" VerticalAlignment="Top" Width="209" Click="bt_ajuda_Click" Cursor="Hand" />
+            <Button Content="Sobre" Height="30" HorizontalAlignment="Left" Margin="215,352,0,0" Name="button1" VerticalAlignment="Top" Width="209" Click="button1_Click_1" Cursor="Hand" />
+            <Image Height="316" Margin="-26,-75,-122,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Source="/OAC;component/Images/telaincial_oac.png" />
+        </Grid>
+    </Grid>
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFEBEBEB" Offset="0" />
+            <GradientStop Color="WhiteSmoke" Offset="1" />
+        </LinearGradientBrush>
+    </Window.Background>
+</Window>

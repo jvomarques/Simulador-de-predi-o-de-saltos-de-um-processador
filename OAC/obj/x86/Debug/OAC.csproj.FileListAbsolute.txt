@@ -1,0 +1,51 @@
+C:\Users\Jvictor\documents\visual studio 2010\Projects\OAC\OAC\bin\Debug\OAC.exe
+C:\Users\Jvictor\documents\visual studio 2010\Projects\OAC\OAC\bin\Debug\OAC.pdb
+C:\Users\Jvictor\documents\visual studio 2010\Projects\OAC\OAC\obj\x86\Debug\MainWindow.baml
+C:\Users\Jvictor\documents\visual studio 2010\Projects\OAC\OAC\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jvictor\documents\visual studio 2010\Projects\OAC\OAC\obj\x86\Debug\App.g.cs
+C:\Users\Jvictor\documents\visual studio 2010\Projects\OAC\OAC\obj\x86\Debug\OAC_MarkupCompile.cache
+C:\Users\Jvictor\documents\visual studio 2010\Projects\OAC\OAC\obj\x86\Debug\OAC.g.resources
+C:\Users\Jvictor\documents\visual studio 2010\Projects\OAC\OAC\obj\x86\Debug\OAC.Properties.Resources.resources
+C:\Users\Jvictor\documents\visual studio 2010\Projects\OAC\OAC\obj\x86\Debug\OAC.csproj.GenerateResource.Cache
+C:\Users\Jvictor\documents\visual studio 2010\Projects\OAC\OAC\obj\x86\Debug\OAC.exe
+C:\Users\Jvictor\documents\visual studio 2010\Projects\OAC\OAC\obj\x86\Debug\OAC.pdb
+C:\Users\Jvictor\Documents\Visual Studio 2010\Projects\OAC\OAC\obj\x86\Debug\UC_tela1.baml
+C:\Users\Jvictor\Documents\Visual Studio 2010\Projects\OAC\OAC\obj\x86\Debug\UC_tela1.g.cs
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\OAC.exe
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\OAC.pdb
+C:\Users\Matheus\Desktop\OAC\OAC\bin\Debug\OAC.exe
+C:\Users\Matheus\Desktop\OAC\OAC\bin\Debug\OAC.pdb
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\MainWindow.baml
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\UC_tela1.baml
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\UC_tela1.g.cs
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\App.g.cs
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\OAC_MarkupCompile.cache
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\OAC.g.resources
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\OAC.Properties.Resources.resources
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\OAC.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\UC_help.baml
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\UC_help.g.cs
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\UC_sobre.baml
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\UC_sobre.g.cs
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\App.baml
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\OAC.exe
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\OAC.pdb
+C:\Users\Jvictor\Desktop\OAC\OAC\bin\Debug\OAC.exe
+C:\Users\Jvictor\Desktop\OAC\OAC\bin\Debug\OAC.pdb
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\MainWindow.baml
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\UC_help.baml
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\UC_sobre.baml
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\UC_tela1.baml
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\App.baml
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\UC_help.g.cs
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\UC_sobre.g.cs
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\UC_tela1.g.cs
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\App.g.cs
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\OAC_MarkupCompile.cache
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\OAC.g.resources
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\OAC.Properties.Resources.resources
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\OAC.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\OAC\OAC\obj\x86\Debug\OAC.csprojResolveAssemblyReference.cache
+C:\Users\Jvictor\Desktop\OAC\OAC\obj\x86\Debug\OAC.csprojResolveAssemblyReference.cache
